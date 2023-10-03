@@ -10,7 +10,7 @@ document.getElementById("myButton").addEventListener("mouseover", function() {
 
         button.style.top = Math.random() * (windowHeight - buttonHeight) + 'px';
         button.style.left = Math.random() * (windowWidth - buttonWidth) + 'px';
-    }, 1000);
+    }, 300);
 });
 
 document.getElementById("myButton").addEventListener("mouseout", function() {
