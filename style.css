@@ -1,5 +1,5 @@
 body {
-    background-color: white;
+    background-color: #202040; /* Gris foncé, légèrement bleu */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -9,7 +9,7 @@ body {
     position: relative;
 }
 .button {
-    background-color: lightgray;
+    background-color: white; /* Bouton blanc */
     border: none;
     color: black;
     padding: 15px 32px;
